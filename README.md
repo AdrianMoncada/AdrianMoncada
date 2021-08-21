@@ -97,7 +97,7 @@
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/AdrianMoncada_
 [youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/adrianmoncada
+[instagram]: https://instagram.com/AdrianMoncada_
 [linkedin]: https://linkedin.com/in/adrian-ignaciomoncada
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
