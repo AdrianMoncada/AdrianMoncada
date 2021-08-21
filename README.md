@@ -5,7 +5,7 @@
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
-- 🔭 I create spanish based [content][youtube] related to web development
+- 🔭 I create spanish based content related to web development: [check it out][youtube]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
