@@ -5,10 +5,9 @@
 
 ## I'm a Husband, Father, Developer, and Teacher!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I create spanish based [content][youtube] related to web development
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:
@@ -68,7 +67,7 @@
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/AdrianMoncada_
-[youtube]: https://youtube.com/codeSTACKr
+[youtube]: https://www.youtube.com/user/211nacho
 [instagram]: https://instagram.com/AdrianMoncada_
 [linkedin]: https://linkedin.com/in/adrian-ignaciomoncada
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
