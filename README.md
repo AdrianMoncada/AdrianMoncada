@@ -5,8 +5,7 @@
 
 ## I'm a Full-Stack Developer
 
-- 🎬 I create spanish based content related to web development: [CHECK IT OUT!][youtube]!
-- 🧑‍🎓 Student of The Odin Project
+- 🎬 I create content related to web development: [CHECK IT OUT!][youtube]!
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love spending time with my dog and play boardgames
 
