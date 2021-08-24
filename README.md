@@ -3,7 +3,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/AdrianMoncada_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAdrianMoncada_&screen_name=AdrianMoncada_)
 
-## I'm a Web Developer based in Argentina
+## I'm a Full-Stack Developer
 
 - 🎬 I create spanish based content related to web development: [CHECK IT OUT!][youtube]!
 - 🧑‍🎓 Student of The Odin Project
