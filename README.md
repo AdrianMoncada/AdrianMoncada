@@ -1,6 +1,5 @@
 ### Hi there, I'm [Adrian!][twitter] 👋
 
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/AdrianMoncada_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAdrianMoncada_&screen_name=AdrianMoncada_)
 
 ## I'm a Full-Stack Developer
@@ -10,7 +9,6 @@
 - ⚡ Fun fact: I love spending time with my dog and play boardgames
 
 ### Connect with me:
-
 
 [<img align="left" alt="AdrianMoncada_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="AdrianMoncada_ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
