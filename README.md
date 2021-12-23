@@ -4,8 +4,7 @@
 
 ## I'm a Software Developer
 
-<!-- - 🎬 I create content related to web development: [CHECK IT OUT!][youtube]! -->
-- 🥅 2021 Goals: Contribute to Open Source projects
+- 🥅 2022 Goals: Contribute to Open Source projects
 
 ### Connect with me:
 
