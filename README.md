@@ -33,8 +33,6 @@
 
 
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianMoncada&layout=compact&theme=dark">
-  <img src = "https://github.com/anuraghazra/github-readme-stats">
-  
 
 
 
