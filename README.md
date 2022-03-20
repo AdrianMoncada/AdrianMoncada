@@ -32,7 +32,7 @@
 <br />
 
 
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianMoncada&layout=compact&theme=radical">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianMoncada&layout=compact&theme=dark">
 
 
 
