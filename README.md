@@ -33,7 +33,7 @@
 
 
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianMoncada&layout=compact&theme=dark">
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AdrianMoncada&repo=github-readme-stats)](https://github.com/AdrianMoncada/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
