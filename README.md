@@ -4,7 +4,7 @@
 
 ### Connect with me:
 
-[![Twitter Badge](https://img.shields.io/badge/-@AdrianMoncada_-1ca0f1?style=flat-square&labelColor=000000&logo=twitter&logoColor=white&link=https://twitter.com/AdrianMoncada_)](https://twitter.com/AdrianMoncada_) 
+[![Twitter Badge](https://img.shields.io/badge/-@AdrianMoncada_-000000?style=flat-square&labelColor=000000&logo=twitter&logoColor=white&link=https://twitter.com/AdrianMoncada_)](https://twitter.com/AdrianMoncada_) 
 [![Gmail Badge](https://img.shields.io/badge/-adrian.ignaciomoncada@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adrian.ignaciomoncada@gmail.com)](mailto:adrian.ignaciomoncada@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-adrianignaciomoncada-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrian-ignaciomoncada/)](https://www.linkedin.com/in/adrian-ignaciomoncada/)
 
