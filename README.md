@@ -4,7 +4,7 @@
 <br />
 
 ## GitHub Stats
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianMoncada&layout=compact&theme=dark">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianMoncada&layout=compact&theme=dark&hide=html">
   
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
