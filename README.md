@@ -1,4 +1,4 @@
-### Hi there, I'm [Adrian!][twitter] 👋
+### Hi there, I'm Adrian! 👋
 
 ## I'm a Backend Software Developer!
 <br />
