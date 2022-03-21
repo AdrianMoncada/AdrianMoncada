@@ -1,12 +1,10 @@
 ### Hi there, I'm [Adrian!][twitter] 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/AdrianMoncada_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAdrianMoncada_&screen_name=AdrianMoncada_)
-
 ## I'm a Backend Software Developer!
 
 ### Connect with me:
 
-[![Twitter Badge](https://img.shields.io/badge/-@AdrianMoncada_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/AdrianMoncada_)](https://twitter.com/AdrianMoncada_) 
+[![Twitter Badge](https://img.shields.io/badge/-@AdrianMoncada_-1ca0f1?style=flat-square&labelColor=#000000&logo=twitter&logoColor=white&link=https://twitter.com/AdrianMoncada_)](https://twitter.com/AdrianMoncada_) 
 [![Gmail Badge](https://img.shields.io/badge/-adrian.ignaciomoncada@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:adrian.ignaciomoncada@gmail.com)](mailto:adrian.ignaciomoncada@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-adrianignaciomoncada-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrian-ignaciomoncada/)](https://www.linkedin.com/in/adrian-ignaciomoncada/)
 
