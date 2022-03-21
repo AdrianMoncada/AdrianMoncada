@@ -1,4 +1,4 @@
-### Hi there, I'm Adrian! 👋
+### Hi there, I'm Adrian! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## I'm a Backend Software Developer!
 <br />
