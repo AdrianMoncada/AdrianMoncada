@@ -2,7 +2,7 @@
 
 ## I'm a Backend Software Developer!
 <br />
-## &#x1f4c8; GitHub Stats
+## GitHub Stats
 
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianMoncada&hide=java,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
