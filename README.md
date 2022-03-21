@@ -2,7 +2,7 @@
 My name is Adrián Moncada and I'm a Backend Software Developer
 
 ## GitHub Stats
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianMoncada&layout=compact&theme=dark&hide=html,SCSS,CSS">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianMoncada&layout=compact&theme=dark&hide=html,SCSS,CSS&icon_color=black">
 
 ## Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=000000)
