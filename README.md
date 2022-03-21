@@ -4,7 +4,7 @@
 
 ## I'm a Backend Software Developer!
 
-- 🥅 2022 Goals: Contribute to Open Source projects
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ### Connect with me:
 
