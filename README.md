@@ -1,4 +1,4 @@
-## Hi there! width="30px">
+## Hi there!
 My name is Adrián and I'm a Backend Software Developer
 
 ## GitHub Stats
